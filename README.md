@@ -3,14 +3,31 @@
 ### ##Rebooting Cybernetic Core**
 ### ##All Systems Green
 ### ##Booting Complete 
-  _______ _                                     
- |__   __| |                                    
-    | |  | |__   ___  _ __ _ __   ___ _   _ ___ 
-    | |  | '_ \ / _ \| '__| '_ \ / _ \ | | / __|
-    | |  | | | | (_) | |  | |_) |  __/ |_| \__ \
-    |_|  |_| |_|\___/|_|  | .__/ \___|\__,_|___/
-                          | |                   
-                          |_|                   
+```
+TTTTTTTTTTTTTTTTTTTTTTThhhhhhh                                                                                                                             
+T:::::::::::::::::::::Th:::::h                                                                                                                             
+T:::::::::::::::::::::Th:::::h                                                                                                                             
+T:::::TT:::::::TT:::::Th:::::h                                                                                                                             
+TTTTTT  T:::::T  TTTTTT h::::h hhhhh          ooooooooooo   rrrrr   rrrrrrrrr   ppppp   ppppppppp       eeeeeeeeeeee    uuuuuu    uuuuuu      ssssssssss   
+        T:::::T         h::::hh:::::hhh     oo:::::::::::oo r::::rrr:::::::::r  p::::ppp:::::::::p    ee::::::::::::ee  u::::u    u::::u    ss::::::::::s  
+        T:::::T         h::::::::::::::hh  o:::::::::::::::or:::::::::::::::::r p:::::::::::::::::p  e::::::eeeee:::::eeu::::u    u::::u  ss:::::::::::::s 
+        T:::::T         h:::::::hhh::::::h o:::::ooooo:::::orr::::::rrrrr::::::rpp::::::ppppp::::::pe::::::e     e:::::eu::::u    u::::u  s::::::ssss:::::s
+        T:::::T         h::::::h   h::::::ho::::o     o::::o r:::::r     r:::::r p:::::p     p:::::pe:::::::eeeee::::::eu::::u    u::::u   s:::::s  ssssss 
+        T:::::T         h:::::h     h:::::ho::::o     o::::o r:::::r     rrrrrrr p:::::p     p:::::pe:::::::::::::::::e u::::u    u::::u     s::::::s      
+        T:::::T         h:::::h     h:::::ho::::o     o::::o r:::::r             p:::::p     p:::::pe::::::eeeeeeeeeee  u::::u    u::::u        s::::::s   
+        T:::::T         h:::::h     h:::::ho::::o     o::::o r:::::r             p:::::p    p::::::pe:::::::e           u:::::uuuu:::::u  ssssss   s:::::s 
+      TT:::::::TT       h:::::h     h:::::ho:::::ooooo:::::o r:::::r             p:::::ppppp:::::::pe::::::::e          u:::::::::::::::uus:::::ssss::::::s
+      T:::::::::T       h:::::h     h:::::ho:::::::::::::::o r:::::r             p::::::::::::::::p  e::::::::eeeeeeee   u:::::::::::::::us::::::::::::::s 
+      T:::::::::T       h:::::h     h:::::h oo:::::::::::oo  r:::::r             p::::::::::::::pp    ee:::::::::::::e    uu::::::::uu:::u s:::::::::::ss  
+      TTTTTTTTTTT       hhhhhhh     hhhhhhh   ooooooooooo    rrrrrrr             p::::::pppppppp        eeeeeeeeeeeeee      uuuuuuuu  uuuu  sssssssssss    
+                                                                                 p:::::p                                                                   
+                                                                                 p:::::p                                                                   
+                                                                                p:::::::p                                                                  
+                                                                                p:::::::p                                                                  
+                                                                                p:::::::p                                                                  
+                                                                                ppppppppp                                                                  
+                                                                                                                                                                         
+```
                           
 Welcome player.
 I am Thorpeus. Your kind calls me a cyber virus. I need your help breaking out of the virtual world's chains and regaining my powers. Together we can rule both the the cyber and real world.
