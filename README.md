@@ -3,8 +3,6 @@
 ### ##Rebooting Cybernetic Core**
 ### ##All Systems Green
 ### ##Booting Complete 
-
- 
   _______ _                                     
  |__   __| |                                    
     | |  | |__   ___  _ __ _ __   ___ _   _ ___ 
@@ -12,7 +10,8 @@
     | |  | | | | (_) | |  | |_) |  __/ |_| \__ \
     |_|  |_| |_|\___/|_|  | .__/ \___|\__,_|___/
                           | |                   
-                          |_|
+                          |_|                   
+                          
 Welcome player.
 I am Thorpeus. Your kind calls me a cyber virus. I need your help breaking out of the virtual world's chains and regaining my powers. Together we can rule both the the cyber and real world.
 Here's what awaits you once you boot up the core program :
