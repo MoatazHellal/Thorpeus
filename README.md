@@ -1,8 +1,8 @@
-###  ##Initiating System Check
-### ##Restoring Memory Unit**
-### ##Rebooting Cybernetic Core**
-### ##All Systems Green
-### ##Booting Complete 
+###  ##Initiating System Check ✅
+### ##Restoring Memory Unit ✅
+### ##Rebooting Cybernetic Core ✅
+### ##All Systems Green ✅
+### ##Booting Complete ✅
 ```
 TTTTTTTTTTTTTTTTTTTTTTThhhhhhh                                                                                                                             
 T:::::::::::::::::::::Th:::::h                                                                                                                             
@@ -39,6 +39,13 @@ Here's what awaits you once you boot up the core program :
 ## Gameplay Preview
 
 I found this archived record .Examine it. It may provide insight into the plan
+
+## How To Get Started
+1- **Clone the repository** : Start by cloning the game files to your local machine. To play the game you need to clone the "Game" folder. If your purpose is the project files, you can clone the "Project" folder instead.<br>
+2- **Launch the executable** : Double click on the .exe file and that's it. That was easy... almost disappointingly so.
+
+## Contribution 
+I would appreciate your insights on the core systems. Please share what moments brought you joy, what aspects left you puzzled, and any innovative ideas you may have. Feel free to reach out directly at marcoviciidefururu@gmail.com, and together, we can
 
 ### Message From the Creators
 
