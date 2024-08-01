@@ -39,6 +39,7 @@ Here's what awaits you once you boot up the core program :
 ## Gameplay Preview
 
 I found this archived record .Examine it. It may provide insight into the plan
+https://drive.google.com/file/d/1uUcqKolc-s_8x6on4r-QsvW-PVjqu8Ez/view?usp=sharing
 
 ## How To Get Started
 1- **Clone the repository** : Start by cloning the game files to your local machine. To play the game you need to clone the "Game" folder. If your purpose is the project files, you can clone the "Project" folder instead.<br>
