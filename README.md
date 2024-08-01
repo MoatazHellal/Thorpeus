@@ -46,7 +46,7 @@ https://drive.google.com/file/d/1uUcqKolc-s_8x6on4r-QsvW-PVjqu8Ez/view?usp=shari
 2- **Launch the executable** : Double click on the .exe file and that's it. That was easy... almost disappointingly so.
 
 ## Contribution 
-I would appreciate your insights on the core systems. Please share what moments brought you joy, what aspects left you puzzled, and any innovative ideas you may have. Feel free to reach out directly at marcoviciidefururu@gmail.com, and together, we can
+I would appreciate your insights on the core systems. Please share what moments brought you joy, what aspects left you puzzled, and any innovative ideas you may have. Feel free to reach out directly at marcoviciidefururu@gmail.com.
 
 ### Message From the Creators
 
